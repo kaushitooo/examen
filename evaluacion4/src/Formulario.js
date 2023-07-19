@@ -1,5 +1,3 @@
-// WorkerFormulario.js
-
 import React, { useState } from 'react';
 import { Button, Form, Row, Col } from 'react-bootstrap';
 

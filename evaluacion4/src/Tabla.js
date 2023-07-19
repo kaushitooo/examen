@@ -1,5 +1,3 @@
-// TablaTrabajadores.js
-
 import React, { useState } from 'react';
 import { Table, Button, Form } from 'react-bootstrap';
 
